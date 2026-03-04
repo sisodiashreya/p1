@@ -1,1 +1,1 @@
-print("Hello Git! Day1 complete")
+print("Day 2 Git push")
